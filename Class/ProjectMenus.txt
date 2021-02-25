@@ -1,0 +1,73 @@
+Survey Menu
+	Admin
+		View Users
+			Delete
+			Edit
+			Return to Menu
+		View Surveys
+			Delete
+			Add
+			Edit
+			Return to Menu
+		View User-Survey Results
+			Question
+				All
+				Individual Display
+		Questions/List of Questions
+			Delete
+			Add
+			Return to Menu
+		Survey Composition/List of Surveys/Choose
+			Delete Questions
+			Add Questions
+	User
+		Login
+			View Surveys
+				Choose 1 Item and Display Details
+					Display Questions/Answer Questions
+					Return to Menu
+			View Account
+				Edit Account Details
+				Return to Menu
+			Exit
+		Create Account
+			Create
+			Exit to Login
+			
+Store Front Menu
+	Admin
+		View Users
+			Delete
+			Edit
+			Return to Menu
+		View Catalog
+			Delete
+			Add
+			Edit
+			Return to Menu
+		View User Orders
+			Edit
+				In-Process
+				Shipped
+		View Inventory
+			Delete
+			Add
+			Return to Menu
+	User
+		Login
+			View Catalog
+				Choose 1 Item and Display Details
+					Display Quantity/Modify to Purchase
+					Return to Menu
+			View Shopping Cart
+					Purchase
+					Edit Cart
+						Add or Delete Items
+					Return to Menu
+			View Account
+				Edit Account Details
+				Return to Menu
+			Exit
+		Create Account
+			Create
+			Exit to Login
