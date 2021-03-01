@@ -1,5 +1,6 @@
 Survey Menu
 	Admin
+	    Login
 		View Users
 			Delete
 			Edit
@@ -34,40 +35,36 @@ Survey Menu
 			Create
 			Exit to Login
 			
-Store Front Menu
+Logger Menu
 	Admin
+		Login
 		View Users
 			Delete
 			Edit
 			Return to Menu
-		View Catalog
+		Create Lab Sections
 			Delete
 			Add
 			Edit
 			Return to Menu
-		View User Orders
+		View User Hours
 			Edit
-				In-Process
-				Shipped
-		View Inventory
-			Delete
-			Add
+				Add
+				Delete
+			Review - Day/Week/Semester
+				User Aggregate
+				Section Aggregate
+				Entire Aggregate
 			Return to Menu
+	Admin - Instructor
+		Login 
+		Same as above but only at the class level
 	User
 		Login
-			View Catalog
-				Choose 1 Item and Display Details
-					Display Quantity/Modify to Purchase
-					Return to Menu
-			View Shopping Cart
-					Purchase
-					Edit Cart
-						Add or Delete Items
-					Return to Menu
-			View Account
-				Edit Account Details
+			Choose Lab Section
+				View Hours
 				Return to Menu
-			Exit
+				Sign In/Out
 		Create Account
 			Create
 			Exit to Login
